@@ -15,6 +15,14 @@
       "sha256": "e9cd95f837eb68d67d45ddeb59413bc133fb3daaeb56423314dc92aea858c22e",
       "size": 271260345,
       "name": "Yunke Chromium 155.0.8059.39 (Linux x64)"
+    },
+    {
+      "version": "154.0.8037.92",
+      "platform": "linux",
+      "url": "https://github.com/sftj/yunke-chromium-builds/releases/download/154.0.8037.92/yunke-chromium-linux-154.0.8037.92.zip",
+      "sha256": "91bc07bca995cc81018fd8acf3fe430d3ed1ecc3d0f38eef05d41288dec8f623",
+      "size": 271865389,
+      "name": "Yunke Chromium 154.0.8037.92 (Linux x64)"
     }
   ]
 }
