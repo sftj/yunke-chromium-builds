@@ -1,6 +1,22 @@
 {
   "builds": [
     {
+      "version": "157.0.8103.80",
+      "platform": "win32",
+      "url": "https://github.com/sftj/yunke-chromium-builds/releases/download/157.0.8103.80/157.0.8103.80-win-x64.zip",
+      "sha256": "7c88cb6caa5416640bd2a532a216b7e8ba5b67b4fff31aa37e2aa4811134dd03",
+      "size": 213315346,
+      "name": "Yunke Chromium 157.0.8103.80 (Windows x64)"
+    },
+    {
+      "version": "157.0.8103.80",
+      "platform": "linux",
+      "url": "https://github.com/sftj/yunke-chromium-builds/releases/download/157.0.8103.80/yunke-chromium-linux-157.0.8103.80.zip",
+      "sha256": "27b0f626c7fc907a66e979b7ab10f91061f3757a49859fa05f00d2292755f51e",
+      "size": 269367666,
+      "name": "Yunke Chromium 157.0.8103.80 (Linux x64)"
+    },
+    {
       "version": "156.0.8078.47",
       "platform": "win32",
       "url": "https://github.com/sftj/yunke-chromium-builds/releases/download/156.0.8078.47/156.0.8078.47.zip",
